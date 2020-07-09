@@ -1,0 +1,3 @@
+Homework for Day 9
+Journalist exercise and...
+Cryptocurrency exercise
