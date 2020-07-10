@@ -16,9 +16,7 @@ puts "The most valuable currency is #{new_hash.key(new_hash.values.max)} at #{ne
 puts "\n"
 puts "The least valuable currency is #{new_hash.key(new_hash.values.min)} at #{new_hash.values.min}$"
 puts "\n"
-puts "#{new_hash.select{ |i| [/crypto/] }.length} currencies have the word 'coin' in them."
 
-puts "\n"
 puts "And now we come to our runner-up. Ladies and gentlemen..."
 puts "The currency worth less than 6000 is..."
 puts "Drumroll, please..."
